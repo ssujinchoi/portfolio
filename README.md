@@ -2,7 +2,7 @@
 </br>
 
 ## :raising_hand: Intro
->내일 더 나은 개발자 최수진입니다.</br>
+>내일 더 성장하고 싶은 개발자 최수진입니다.</br>
 >
 </br>
 
@@ -19,7 +19,7 @@
 >개발기간 : 2018.07.01 ~ 2018.11.20</br>
 >
 >기술 스택: </br>
->JAVA 8 / Spring Boot / Maven / Vue.js / d3.js, / mybaits / MySQL</br>
+>JAVA 8 / Spring Boot / Maven / Vue.js / d3.js / mybaits / MySQL</br>
 >[프로젝트 상세]() 참고</br>
 
 ---
